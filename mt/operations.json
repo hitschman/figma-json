@@ -1,44 +1,51 @@
 [
   {
     "name": "Charge 10 g of MADI",
-    "image": "https://sss.svg",
+    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/fill-drip.svg",
     "stage": "Mixture Preparation",
     "variant": "done"
   },
   {
     "name": "500 rpm",
-    "image": "https://sss.svg",
+    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/tornado.svg",
     "stage": "Reaction",
     "variant": "done"
   },
   {
     "name": "Heat up to 80° C over 10 Minutes",
-    "image": "https://sss.svg",
+    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/temperature-arrow-up.svg",
     "stage": "Reaction",
     "variant": "running"
   },
   {
     "name": "Wait for 10 minutes",
-    "image": "https://sss.svg",
+    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/hourglass-start.svg",
     "stage": "Reaction",
     "variant": "planned"
   },
   {
-    "name": "Charge 10 g of MADI",
-    "image": "https://sss.svg",
+    "name": "Charge 10 g of ...",
+    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/fill-drip.svg",
     "stage": "Mixture Preparation",
     "variant": "planned"
   },
   {
-    "name": "Charge 10 g of MADI",
-    "image": "https://sss.svg",
+    "name": "Charge 10 g of ...",
+    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/fill-drip.svg",
     "stage": "Mixture Preparation",
     "variant": "planned"
   },
   {
     "name": "Wait for 10 minutes",
-    "image": "https://sss.svg",
+    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/hourglass-start.svg",
+    "stage": "Reaction",
+    "variant": "planned"
+  },
+  {
+    "name": "Cool down to 50° C asap",
+    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/temperature-arrow-down.svg",
     "stage": "Reaction",
     "variant": "planned"
   }
-]
+  
+  
