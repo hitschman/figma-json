@@ -1,49 +1,49 @@
 [
   {
     "name": "Charge 10 g of MADI",
-    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/fill-drip.svg",
+    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/fill-drip.png",
     "stage": "Mixture Preparation",
     "variant": "done"
   },
   {
     "name": "500 rpm",
-    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/tornado.svg",
+    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/tornado.png",
     "stage": "Reaction",
     "variant": "done"
   },
   {
     "name": "Heat up to 80° C over 10 Minutes",
-    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/temperature-arrow-up.svg",
+    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/temperature-arrow-up.png",
     "stage": "Reaction",
     "variant": "running"
   },
   {
     "name": "Wait for 10 minutes",
-    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/hourglass-start.svg",
+    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/hourglass-start.png",
     "stage": "Reaction",
     "variant": "planned"
   },
   {
     "name": "Charge 10 g of ...",
-    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/fill-drip.svg",
+    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/fill-drip.png",
     "stage": "Mixture Preparation",
     "variant": "planned"
   },
   {
     "name": "Charge 10 g of ...",
-    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/fill-drip.svg",
+    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/fill-drip.png",
     "stage": "Mixture Preparation",
     "variant": "planned"
   },
   {
     "name": "Wait for 10 minutes",
-    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/hourglass-start.svg",
+    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/hourglass-start.png",
     "stage": "Reaction",
     "variant": "planned"
   },
   {
     "name": "Cool down to 50° C asap",
-    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/temperature-arrow-down.svg",
+    "image": "https://raw.githubusercontent.com/hitschman/figma-json/main/mt/svg/temperature-arrow-down.png",
     "stage": "Reaction",
     "variant": "planned"
   }
